@@ -1,35 +1,41 @@
-<<<<<<< HEAD
-# newsflow
+# NYT News Feed — Flutter Application
 
-A new Flutter project.
+A Flutter mobile application that displays Top Stories from the New York Times (NYT) API. Built as part of a Flutter Intern Assignment.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+> Add screenshots of your app here after running it.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# newsflow
+## 🚀 Features
 
-A new Flutter project.
+- 📰 Real-time NYT Top Stories via official API
+- 🗂️ Category browsing — Home, World, Arts, Science, Sports, Opinion
+- 🔍 Keyword search filter
+- 🏷️ Section-based filtering with 13+ categories
+- 🌙 Dark mode / Light mode toggle
+- 🔄 Pull-to-refresh
+- 📄 Article detail page with full image, author, date, summary
+- 🌐 Open full article in browser (NYT website)
+- 🔗 Copy article link to clipboard
+- ⚠️ Proper loading, error, and empty states
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🛠️ Tech Stack
 
-A few resources to get you started if this is your first Flutter project:
+| Layer | Technology |
+|-------|-----------|
+| Framework | Flutter (latest stable) |
+| State Management | GetX |
+| API | NYT Top Stories API |
+| HTTP | dart:html (Flutter Web) / http package |
+| Architecture | MVC with GetX Bindings |
+| Routing | GetX Named Routes |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> d0bd5217b475754e8c6093287a73f152570f41fc
+## 📁 Project Structure
