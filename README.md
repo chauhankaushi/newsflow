@@ -36,6 +36,4 @@ A Flutter mobile application that displays Top Stories from the New York Times (
 | Architecture | MVC with GetX Bindings |
 | Routing | GetX Named Routes |
 
----
 
-## 📁 Project Structure
