@@ -7,6 +7,8 @@ A Flutter mobile application that displays Top Stories from the New York Times (
 ## 📱 Screenshots
 
 > Add screenshots of your app here after running it.
+<img width="252" height="448" alt="image" src="https://github.com/user-attachments/assets/9d9de9ec-2f04-4ae7-b1c9-839b843f37ab" />
+
 
 ---
 
